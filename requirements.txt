@@ -1,0 +1,7 @@
+# Core
+Django>=4.2.0
+djangorestframework>=3.14.0
+python-dotenv>=1.0.0
+
+# Hedera
+python-sdk-hedera>=2.14.1
