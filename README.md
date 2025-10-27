@@ -70,7 +70,7 @@ Educertify est une plateforme innovante qui utilise la technologie blockchain (H
    ```
 
 ## 🤝 Contribution
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+Les contributions sont les bienvenues .
 
 ## P.S
 Ce projet n’est pas encore terminé.
