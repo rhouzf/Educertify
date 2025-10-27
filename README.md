@@ -10,6 +10,10 @@ Educertify est une plateforme innovante qui utilise la technologie blockchain (H
 - **Gestion simplifiée** des émissions de diplômes
 - **Traçabilité complète** de chaque diplôme émis
 
+####exemple:
+![WhatsApp Image 2025-10-27 à 22 03 52_a622a3a0](https://github.com/user-attachments/assets/7852ea5f-ed46-4bc8-aa5a-e30682083b3f)
+
+
 ### Pour les Étudiants
 - **Accès permanent** à vos diplômes certifiés
 - **Partage facile** avec les employeurs
@@ -19,6 +23,10 @@ Educertify est une plateforme innovante qui utilise la technologie blockchain (H
 - **Vérification en temps réel** de la validité des diplômes
 - **Processus de recrutement** simplifié et sécurisé
 - **Confiance accrue** dans les documents présentés
+
+####exemple:
+![WhatsApp Image 2025-10-27 à 22 04 16_74509a16](https://github.com/user-attachments/assets/ed9e39a6-7e48-4685-a125-bc985b283bc4)
+
 
 ## 🛠️ Technologies Utilisées
 - **Backend**: Django (Python)
@@ -61,14 +69,8 @@ Educertify est une plateforme innovante qui utilise la technologie blockchain (H
    python manage.py runserver
    ```
 
-## 📚 Documentation API
-L'API RESTful permet d'intégrer Educertify avec d'autres systèmes. Consultez la documentation complète dans le dossier `/docs`.
-
 ## 🤝 Contribution
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-## 📄 Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 📧 Contact
-Pour toute question ou suggestion, contactez [votre-email@exemple.com](mailto:votre-email@exemple.com)
+## P.S
+Ce projet n’est pas encore terminé.
